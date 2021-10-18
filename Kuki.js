@@ -6,7 +6,7 @@ let kuki_owner;
 
 class Kukibot {
 
-  constructor(options = {name: 'kuki', owner:'moezilla'}){
+  constructor(options = {name: 'kuki', owner:'rishabh'}){
 
         kuki_name = options.name;
 
